@@ -16,6 +16,7 @@ chai.use(chaiHttp);
 //Cuando no quedan casilla vacias y no hay un ganador entonces es un empate
 //Cuando el segundo jugador gana
 
+
 describe("juego tateti", () => {
 
     let juego = {
